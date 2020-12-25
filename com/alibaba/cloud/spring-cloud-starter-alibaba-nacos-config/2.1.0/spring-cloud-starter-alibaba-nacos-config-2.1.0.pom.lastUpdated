@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 16 15:55:45 CST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1608105345628
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.alibaba.cloud\:spring-cloud-starter-alibaba-nacos-config\:pom\:2.1.0 from/to central (https\://repo.maven.apache.org/maven2)\: Transfer failed for https\://repo.maven.apache.org/maven2/com/alibaba/cloud/spring-cloud-starter-alibaba-nacos-config/2.1.0/spring-cloud-starter-alibaba-nacos-config-2.1.0.pom

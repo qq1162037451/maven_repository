@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 16 15:48:38 CST 2020
+@default-nexus-http\://repo.maven.apache.org/maven2/.lastUpdated=1608104918538
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.alibaba\:druid-spring-boot-starter\:pom\:1.1.10 from/to nexus (http\://repo.maven.apache.org/maven2)\: Transfer failed for http\://repo.maven.apache.org/maven2/com/alibaba/druid-spring-boot-starter/1.1.10/druid-spring-boot-starter-1.1.10.pom 501 HTTPS Required

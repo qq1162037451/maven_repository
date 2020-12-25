@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.xiaojiang.firstSpringCloud</groupId>
+  <artifactId>cloudalibaba-provider-payment9005</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20201224081708</lastUpdated>
+  </versioning>
+</metadata>

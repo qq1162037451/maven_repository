@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 16 15:48:35 CST 2020
+@default-nexus-http\://repo.maven.apache.org/maven2/.lastUpdated=1608104915996
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-autoconfigure\:jar\:2.2.2.RELEASE from/to nexus (http\://repo.maven.apache.org/maven2)\: Transfer failed for http\://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.2.2.RELEASE/spring-boot-autoconfigure-2.2.2.RELEASE.jar 501 HTTPS Required

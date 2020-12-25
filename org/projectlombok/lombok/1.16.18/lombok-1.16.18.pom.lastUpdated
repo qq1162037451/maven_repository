@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 16 15:48:31 CST 2020
+@default-nexus-http\://repo.maven.apache.org/maven2/.lastUpdated=1608104911822
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.projectlombok\:lombok\:pom\:1.16.18 from/to nexus (http\://repo.maven.apache.org/maven2)\: Transfer failed for http\://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.16.18/lombok-1.16.18.pom 501 HTTPS Required

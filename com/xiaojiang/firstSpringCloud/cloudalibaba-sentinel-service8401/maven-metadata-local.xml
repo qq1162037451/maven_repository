@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.xiaojiang.firstSpringCloud</groupId>
+  <artifactId>cloudalibaba-sentinel-service8401</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20201224081706</lastUpdated>
+  </versioning>
+</metadata>
